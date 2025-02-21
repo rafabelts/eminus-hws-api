@@ -1,2 +1,4 @@
-main = "src/index.ts"
+name: "api",
+main: "src/index.ts",
 minify = true
+compatibility_date: "2025-02-21",
