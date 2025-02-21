@@ -1,4 +1,4 @@
-name = "eminus-homework-api"
+name = "eminus-homeworks-api"
 main = "src/index.ts"
 minify = true
 compatibility_date = "2025-02-21"
