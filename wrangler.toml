@@ -4,4 +4,4 @@ minify = true
 compatibility_date = "2025-02-21"
 
 [vars]
-GEMINI_KEY: "AIzaSyDemA4zHNuVqQHmYKxQIfanM7wQ-mkyC1o"
+GEMINI_KEY = "AIzaSyDemA4zHNuVqQHmYKxQIfanM7wQ-mkyC1o"
