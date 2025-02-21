@@ -15,6 +15,10 @@ app.get("/", (c) => {
   return c.text("Hello World!");
 });
 
+app.get("/ping", (c) => {
+  return c.text("pong");
+});
+
 app.get("/health", (c) => {
   return c.text("OK");
 });
