@@ -31,4 +31,3 @@ jobs:
           preCommands: |
             pnpm install wrangler
             echo "${{ secrets.GEMINI_KEY }}" | pnpm exec wrangler secret put GEMINI_KEY
-            "
