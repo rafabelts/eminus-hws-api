@@ -15,6 +15,7 @@ dist/
 node_modules/
 .wrangler
 wrangler.jsonc
+wrangler.toml
 
 # env
 .env
