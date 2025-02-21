@@ -15,10 +15,6 @@ app.get("/", (c) => {
   return c.text("Hello World!");
 });
 
-app.get("/ping", (c) => {
-  return c.text("pong");
-});
-
 app.post("/description", (c) => descriptionController(c));
 
 export default app;
