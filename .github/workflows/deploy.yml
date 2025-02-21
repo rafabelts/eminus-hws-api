@@ -30,4 +30,4 @@ jobs:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           preCommands: |
             pnpm install wrangler
-            wrangler secret put GEMINI_KEY --value "${{ secrets.GEMINI_KEY }}"
+            wrangler secret put GEMINI_KEY "${{ secrets.GEMINI_KEY }}"
