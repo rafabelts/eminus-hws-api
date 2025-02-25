@@ -7,7 +7,7 @@ const app = new Hono().basePath("/api");
 app.use(
   "/*",
   cors({
-    origin: ["https://eminus.uv.mx/eminus4/page/course/list"],
+    origin: ["https://eminus.uv.mx"],
   })
 );
 
