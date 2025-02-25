@@ -22,7 +22,7 @@ Ejemplo de salida esperada:
 NO agregues código adicional como \`html\`, \`\`\`, ni ninguna otra indicación de que es código. 
 Solo devuelve el contenido en formato HTML sin ningún otro texto adicional. 
 
-RECUERDA QUE EL MAXIMO DE PARRAFOS DE LA DESCRIPCION ES DE 2
+RECUERDA QUE EL MAXIMO DE PARRAFOS DE LA DESCRIPCION ES DE 1
 
 Descripción: ${description}`;
 
